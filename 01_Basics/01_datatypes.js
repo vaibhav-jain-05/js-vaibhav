@@ -15,5 +15,7 @@ console.log(3+
 //undefined => never assiagned value ===>undefined
 //symbol ==> uinique
 
+console.log(typeof null)  //object
+console.log(typeof undefined) //undefined
 
 //object
