@@ -23,6 +23,6 @@ console.log(undefined < 0); //false
 
 //=== works in camarison
 console.log("2"  === 2)   //false
-
+  
 
 
